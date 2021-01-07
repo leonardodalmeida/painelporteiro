@@ -1,0 +1,11 @@
+# HOST = 'mysql741.umbler.com'
+# PORT = '41890'
+# DATABASE = 'fastpassbd'
+# USER = 'testpassbd'
+# PASSWORD = '{H2L/IcyR{5r/'
+#
+HOST = '10.3.1.100'
+PORT = '3306'
+DATABASE = 'securityfastpass'
+USER = 'fastpass'
+PASSWORD = 'u3CLe3h8xnRxi'
